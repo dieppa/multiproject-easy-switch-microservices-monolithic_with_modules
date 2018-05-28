@@ -34,6 +34,7 @@ dependencies {
     compile project(":module1-api")
     compile project(":module1")
     compile project(":module2")
+    compile project(":kotlinDemo")
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.springframework.cloud:spring-cloud-starter-openfeign')
     compileOnly('org.projectlombok:lombok')

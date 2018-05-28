@@ -9,6 +9,6 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration
 public class EndPointsMonolithicConfiguration implements
         M1EndPointsConfiguration,
-        M2EndPointsConfiguration {
+        M2EndPointsConfiguration{
 
 }

@@ -2,5 +2,6 @@ rootProject.name = 'demo2'
 include 'module1'
 include 'module1-api'
 include 'module2'
+include 'kotlinDemo'
 include 'monolithic-app'
 
